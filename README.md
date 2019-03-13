@@ -68,8 +68,8 @@ Adding/Removing friends:
     
         URL: http://{{URL}/User/unfriend
         Request Body:
-         {
-        "UserID":4,
-        "FriendIds":[1,2]
+        {
+          "UserID":4,
+          "FriendIds":[1,2]
         }
 

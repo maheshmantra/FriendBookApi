@@ -3,15 +3,15 @@
 Projected created with VisualStudio.
 
 Basic features of the application should include:
-	Users should be able to create a password-protected profile
-	Users should be able to log in to their profile
-	Users should be able to search other users and list the results
-	Users should be able to add/remove other users as friends
+        Users should be able to create a password-protected profile
+        Users should be able to log in to their profile
+        Users should be able to search other users and list the results
+        Users should be able to add/remove other users as friends
 
 Implementation:
 1.	Token Based Authentication using ASP.NET Web API 2, Owin, and Identity.
 2.	The API supports CORS and accepts HTTP calls from any origin.
-3.	With the evolution of front-end frameworks and the huge change on how we build web applications nowadays the preferred approach to authenticate users is to use signed token as this token is sent to the server with each request
+3.	With the evolution of front-end frameworks and the huge change on how we build web applications nowadays the preferred approach         to authenticate users is to use signed token as this token is sent to the server with each request.
 4.	We integrated swagger to test the API calls.
 
 

@@ -47,14 +47,14 @@ Viewing own profile info:
 
 Searching other users and listing search results:
 
-        URL: http://{{URL}}/get/User/FindFriends/{searchvalue}
+        URL : http://{{URL}}/get/User/FindFriends/{searchvalue}
         Note: SearchValue can be UserName or First Name or Last Name
 
 
 
 Adding/Removing friends:
 
-    Add friend
+    Add friend -
     
         URL : http://{{URL}}/User/MakeFriends
         Request Body:
@@ -64,9 +64,9 @@ Adding/Removing friends:
         }
 
 
-    Remove Friend
+    Remove Friend -
     
-        URL: http://{{URL}/User/unfriend
+        URL : http://{{URL}/User/unfriend
         Request Body:
         {
           "UserID":4,

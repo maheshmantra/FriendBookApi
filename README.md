@@ -3,10 +3,10 @@
 Projected created with VisualStudio.
 
 Basic features of the application should include:
-        Users should be able to create a password-protected profile
-        Users should be able to log in to their profile
-        Users should be able to search other users and list the results
-        Users should be able to add/remove other users as friends
+- Users should be able to create a password-protected profile.
+- Users should be able to log in to their profile.
+- Users should be able to search other users and list the results.
+- Users should be able to add/remove other users as friends.
 
 Implementation:
 1.	Token Based Authentication using ASP.NET Web API 2, Owin, and Identity.
